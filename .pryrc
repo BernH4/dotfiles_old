@@ -2,7 +2,9 @@
 Pry.config.editor = 'nvim'
 
 Pry.config.commands.alias_command "4", "ls -l"
-Pry.commands.alias_command "2", "!!!"
+Pry.commands.alias_command "1", "!!!"
+Pry.commands.alias_command "2", "next"
+Pry.commands.alias_command "4", "whereami"
 Pry.commands.alias_command "5", "step"
 
 # Hit Enter to repeat last command
