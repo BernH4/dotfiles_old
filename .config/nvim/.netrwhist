@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/bernh4/.config/nvim'
+let g:netrw_dirhist_2='/home/bernh4/projects/the_odin_project/etch-a-sketch'
+let g:netrw_dirhist_1='/home/bernh4'
